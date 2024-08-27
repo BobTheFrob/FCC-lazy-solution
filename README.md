@@ -1,1 +1,1 @@
-My lazy solution for celestial bodies database project.
+# My lazy solution for celestial bodies database project.
